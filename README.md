@@ -8,7 +8,7 @@ Proyek ini berfokus pada konversi desain UI dari Figma ke Flutter untuk dua tamp
 - **Fitur:** Desain bersih dengan arsitektur modern, fokus pada kesederhanaan.
 - **Implementasi:** Flutter digunakan untuk menjaga keselarasan desain di berbagai resolusi layar.
 
-![HouseQu](lib/pages/splashscreen/v1/splash_screenv2.dart)
+![HouseQu](https://github.com/Pashakhatamihasibuan/slicing_figma_to_flutter/blob/main/figma_ui/splashscreenv1.png)
 
 ## Venture
 
@@ -16,7 +16,7 @@ Proyek ini berfokus pada konversi desain UI dari Figma ke Flutter untuk dua tamp
 - **Fitur:** Ikon yang mencerminkan kekuatan dan kemewahan, dengan gaya desain tegas.
 - **Implementasi:** Menggunakan Flutter untuk memastikan performa UI yang halus dengan tema gelap yang elegan.
 
-![Venture](lib/pages/splashscreen/v2/splash_screenv1.dart)
+![Venture](https://github.com/Pashakhatamihasibuan/slicing_figma_to_flutter/blob/main/figma_ui/splashscreenv2.png)
 
 ## Teknologi yang Digunakan
 
